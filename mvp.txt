@@ -1,0 +1,14 @@
+MVP:
+- Add space between form fields in form renderer
+- Create Angular Element that retrieves and renders form config
+- Host Element in S3
+- Add table view for showing all created forms (formId, formName, postUrl, and fieldIds)
+- Add submit button functionality to form renderer to post to given url
+
+
+
+Post-MVP:
+- Ability to remove radio/dropdown options in form creator
+- Add functionality to form renderer submit button to save submissions in database
+    - In addition to posting to given url? Or only if given url is blank?
+
